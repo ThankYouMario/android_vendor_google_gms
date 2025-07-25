@@ -1,6 +1,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="battery_suggestion_summary" >"Uključite prilagodljivu bateriju"</string>
     <string name="smart_battery_manager_title" >"Prilagodljiva baterija"</string>
+    <string name="smart_battery_footer">"Kada menadžer baterije otkrije da aplikacije prazne bateriju, imate opciju da ograničite te aplikacije. Ograničene aplikacije možda neće raditi kako treba i obaveštenja mogu da kasne."</string>
     <string name="smart_battery_title" >"Koristi prilagodljivu bateriju"</string>
     <string name="battery_tip_smart_battery_summary" >"Uključite prilagodljivu bateriju"</string>
 </resources>

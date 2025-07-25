@@ -195,6 +195,9 @@
     <!-- The name of the package that will handle updating the device management role. -->
     <string name="config_devicePolicyManagementUpdater" translatable="false">com.google.android.gms</string>
 
+    <!-- The name of the system package that will hold the dependency installer role. -->
+    <string name="config_systemDependencyInstaller" translatable="false">com.google.android.gms</string>
+
     <!-- Whether or not to enable the lock screen entry point for the QR code scanner. -->
     <bool name="config_enableQrCodeScannerOnLockScreen">true</bool>
 
@@ -293,4 +296,22 @@
 
     <!-- Set system buttons use all caps for text as false -->
     <bool name="config_buttonTextAllCaps">false</bool>
+
+    <!-- The array of account types that accounts in any of these can be set as the default account
+         for new raw contacts. -->
+    <string-array name="config_rawContactsEligibleDefaultAccountTypes" translatable="false">
+        <item>com.google</item>
+    </string-array>
+
+    <!-- Certificate digests for trusted apps that will be allowed to obtain the knownSigner
+         SET_DEFAULT_ACCOUNT_FOR_CONTACTS permissions. The digest should be computed over the DER
+         encoding of the trusted certificate using the SHA-256 digest algorithm. -->
+    <string-array name="config_setContactsDefaultAccountKnownSigners">
+      <!-- The package signature hash (SHA-256) for the Google Play Services
+           (com.google.android.gms, release version) -->
+      <item>F0FD6C5B410F25CB25C3B53346C8972FAE30F8EE7411DF910480AD6B2D60DB83</item>
+    </string-array>
+
+    <!-- Help URI, action disabled by advanced protection [DO NOT TRANSLATE] -->
+    <string name="config_help_url_action_disabled_by_advanced_protection" translatable="false">intent:#Intent;action=com.google.android.gms.settings.ADVANCED_PROTECTION;package=com.google.android.gms;end</string>
 </resources>

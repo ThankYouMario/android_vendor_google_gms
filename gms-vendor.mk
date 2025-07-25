@@ -99,7 +99,6 @@ PRODUCT_PACKAGES += \
     CalculatorGoogle \
     CalendarGoogle \
     Chrome64 \
-    DeskClockGoogle \
     Drive \
     Gemini \
     Gmail2 \
@@ -116,6 +115,7 @@ PRODUCT_PACKAGES += \
     AndroidAutoStub \
     ConfigUpdater \
     CrossDeviceServices \
+    DeskClockGoogle \
     FamilyLinkParentalControls \
     FilesGoogle \
     GWP \

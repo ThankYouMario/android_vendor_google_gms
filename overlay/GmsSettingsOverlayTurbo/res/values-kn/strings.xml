@@ -1,6 +1,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="battery_suggestion_summary" >"ಅಡಾಪ್ಟಿವ್‌ ಬ್ಯಾಟರಿಯನ್ನು ಆನ್ ಮಾಡಿ"</string>
     <string name="smart_battery_manager_title" >"ಅಡಾಪ್ಟಿವ್‌ ಬ್ಯಾಟರಿ"</string>
+    <string name="smart_battery_footer">"ಯಾವಾಗ ಬ್ಯಾಟರಿ ಮ್ಯಾನೇಜರ್ ಅಪ್ಲಿಕೇಶನ್‌ಗಳು ಬ್ಯಾಟರಿಯನ್ನು ಬರಿದಾಗಿಸುತ್ತಿದೆ ಎಂದು ಪತ್ತೆ ಹಚ್ಚುತ್ತದೆಯೊ, ಈ ಅಪ್ಲಿಕೇಶನ್‌ಗಳನ್ನು ನಿರ್ಬಂಧಿಸುವ ಆಯ್ಕೆಯನ್ನು ನೀವು ಹೊಂದಿರುತ್ತೀರಿ. ನಿರ್ಬಂಧಿತ ಅಪ್ಲಿಕೇಶನ್‌ಗಳು ಸರಿಯಾಗಿ ಕೆಲಸ ಮಾಡದಿರಬಹುದು ಮತ್ತು ಅಧಿಸೂಚನೆಗಳು ವಿಳಂಬವಾಗಬಹುದು."</string>
     <string name="smart_battery_title" >"ಅಡಾಪ್ಟಿವ್‌ ಬ್ಯಾಟರಿಯನ್ನು ಉಪಯೋಗಿಸಿ"</string>
     <string name="battery_tip_smart_battery_summary" >"ಅಡಾಪ್ಟಿವ್‌ ಬ್ಯಾಟರಿಯನ್ನು ಆನ್ ಮಾಡಿ"</string>
 </resources>

@@ -1,6 +1,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="battery_suggestion_summary" >"Включете режима за адаптивна батерия"</string>
     <string name="smart_battery_manager_title" >"Адаптивна батерия"</string>
+    <string name="smart_battery_footer">"Когато мениджърът на батерията установи, че приложенията я изразходват, ще имате опцията да ги ограничите. Ограничените приложения може да не работят правилно и е възможно да има забавяне на известията."</string>
     <string name="smart_battery_title" >"Използване на режима за адаптивна батерия"</string>
     <string name="battery_tip_smart_battery_summary" >"Включете режима за адаптивна батерия"</string>
 </resources>

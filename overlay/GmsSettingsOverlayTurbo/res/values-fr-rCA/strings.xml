@@ -1,6 +1,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="battery_suggestion_summary" >"Activer le gestionnaire de pile adaptatif"</string>
     <string name="smart_battery_manager_title" >"Gestionnaire de pile adaptatif"</string>
+    <string name="smart_battery_footer">"Lorsque le gestionnaire de pile détecte que des applications drainent la pile, il vous offrira la possibilité de les restreindre. Il se peut que les applications restreintes ne fonctionnent pas correctement et que les notifications soient retardées."</string>
     <string name="smart_battery_title" >"Utiliser le gestionnaire de pile adaptatif"</string>
     <string name="battery_tip_smart_battery_summary" >"Activer le gestionnaire de pile adaptatif"</string>
 </resources>

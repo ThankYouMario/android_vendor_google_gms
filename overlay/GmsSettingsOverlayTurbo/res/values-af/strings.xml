@@ -1,6 +1,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="battery_suggestion_summary" >"Skakel Aanpasbare Battery aan"</string>
     <string name="smart_battery_manager_title" >"Aanpasbare Battery"</string>
+    <string name="smart_battery_footer">"Wanneer Batterybestuurder bespeur dat programme jou battery leegmaak, het jy die opsie om daardie programme te beperk. Beperkte programme sal dalk nie behoorlik werk nie en kennisgewings sal dalk vertraag word."</string>
     <string name="smart_battery_title" >"Gebruik Aanpasbare Battery"</string>
     <string name="battery_tip_smart_battery_summary" >"Skakel Aanpasbare Battery aan"</string>
 </resources>

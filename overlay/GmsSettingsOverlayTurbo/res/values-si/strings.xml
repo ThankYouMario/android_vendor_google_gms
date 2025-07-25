@@ -1,6 +1,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="battery_suggestion_summary" >"අනුවර්තනීය බැටරිය ක්‍රියාත්මක කරන්න"</string>
     <string name="smart_battery_manager_title" >"අනුවර්තනීය බැටරිය"</string>
+    <string name="smart_battery_footer">"බැටරි කළමනාකරු යෙදුම් බැටරිය අඩු කරන බව හඳුනා ගන්නා විට, මෙම යෙදුම් සීමා කිරීමට ඔබට විකල්පයක් ඇත. සීමා කළ යෙදුම් නිසියාකාරව ක්‍රියා නොකළ හැකි අතර දැනුම්දීම් ප්‍රමාද විය හැකිය."</string>
     <string name="smart_battery_title" >"අනුවර්තනීය බැටරිය භාවිත කරන්න"</string>
     <string name="battery_tip_smart_battery_summary" >"අනුවර්තනීය බැටරිය ක්‍රියාත්මක කරන්න"</string>
 </resources>

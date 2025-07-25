@@ -1,6 +1,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="battery_suggestion_summary" >"Ative a Bateria adaptável"</string>
     <string name="smart_battery_manager_title" >"Bateria adaptável"</string>
+    <string name="smart_battery_footer">"Quando o Gerenciador de bateria detectar que apps estão descarregando a bateria, você terá a opção de restringi-los. Apps com restrição podem não funcionar corretamente e é possível que as notificações atrasem."</string>
     <string name="smart_battery_title" >"Usar Bateria adaptável"</string>
     <string name="battery_tip_smart_battery_summary" >"Ative a Bateria adaptável"</string>
 </resources>

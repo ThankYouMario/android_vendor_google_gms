@@ -22,6 +22,8 @@ PRODUCT_PACKAGES += \
     GmsConfigOverlayGSA \
     GmsConfigOverlayPersonalSafety \
     GmsConfigOverlayPhotos \
+    GmsContactsProviderOverlay \
+    GmsSettingsOverlay \
     GmsSettingsOverlayPersonalSafety \
     GmsSettingsOverlayTurbo \
     GmsSettingsProviderOverlay \

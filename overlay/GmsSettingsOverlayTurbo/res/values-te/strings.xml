@@ -1,6 +1,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="battery_suggestion_summary" >"అనుకూల బ్యాటరీని ఆన్ చేయండి"</string>
     <string name="smart_battery_manager_title" >"అనుకూల బ్యాటరీ"</string>
+    <string name="smart_battery_footer">"ఏవైనా యాప్‌లు బ్యాటరీని అధికంగా వాడుతున్నాయని బ్యాటరీ మేనేజర్ గుర్తించినప్పుడు, ఆ యాప్‌లను పరిమితం చేసే ఎంపిక మీకు ఉంటుంది. పరిమితం చేయబడిన యాప్‌లు సరిగ్గా పనిచేయకపోవచ్చు, వాటి నోటిఫికేషన్‌లు రావడానికి ఆలస్యం కావచ్చు."</string>
     <string name="smart_battery_title" >"అనుకూల బ్యాటరీని ఉపయోగించండి"</string>
     <string name="battery_tip_smart_battery_summary" >"అనుకూల బ్యాటరీని ఆన్ చేయండి"</string>
 </resources>

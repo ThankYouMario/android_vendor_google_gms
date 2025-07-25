@@ -1,6 +1,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="battery_suggestion_summary" >"Ενεργοποίηση της λειτουργίας \"Προσαρμοστική μπαταρία\""</string>
     <string name="smart_battery_manager_title" >"Προσαρμοστική μπαταρία"</string>
+    <string name="smart_battery_footer">"Όταν η Διαχείριση μπαταρίας ανιχνεύσει εξάντληση της μπαταρίας από εφαρμογές, θα μπορείτε να επιλέξετε να περιοριστούν αυτές οι εφαρμογές. Οι περιορισμένες εφαρμογές μπορεί να μην λειτουργούν σωστά και οι ειδοποιήσεις μπορεί να παρουσιάσουν καθυστέρηση."</string>
     <string name="smart_battery_title" >"Χρήση της λειτουργίας \"Προσαρμοστική μπαταρία\""</string>
     <string name="battery_tip_smart_battery_summary" >"Ενεργοποίηση της λειτουργίας \"Προσαρμοστική μπαταρία\""</string>
 </resources>

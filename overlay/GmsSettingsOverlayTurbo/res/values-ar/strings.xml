@@ -1,6 +1,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="battery_suggestion_summary" >"تفعيل البطارية التكيُّفية"</string>
     <string name="smart_battery_manager_title" >"البطارية التكيُّفية"</string>
+    <string name="smart_battery_footer">"عندما يرصد "مدير البطارية" تطبيقات تستنزف شحن البطارية، سيتوفر لديك خيار بتقييد هذه التطبيقات، علمًا بأن التطبيقات المقيدة قد لا تعمل على نحو صحيح وقد تتأخر الإشعارات."</string>
     <string name="smart_battery_title" >"استخدام البطارية التكيُّفية"</string>
     <string name="battery_tip_smart_battery_summary" >"تفعيل البطارية التكيُّفية"</string>
 </resources>

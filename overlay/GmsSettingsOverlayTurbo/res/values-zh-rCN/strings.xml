@@ -1,6 +1,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="battery_suggestion_summary" >"开启 Adaptive Battery"</string>
     <string name="smart_battery_manager_title" >"Adaptive Battery"</string>
+    <string name="smart_battery_footer">"当电池管理器检测到应用正在严重耗电时，您可以选择限制这些应用。受限应用可能无法正常运行，相应通知也可能会有所延迟。"</string>
     <string name="smart_battery_title" >"使用 Adaptive Battery"</string>
     <string name="battery_tip_smart_battery_summary" >"开启 Adaptive Battery"</string>
 </resources>

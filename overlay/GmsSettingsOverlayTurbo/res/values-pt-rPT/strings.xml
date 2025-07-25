@@ -1,6 +1,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="battery_suggestion_summary" >"Ative a funcionalidade Adaptive Battery."</string>
     <string name="smart_battery_manager_title" >"Adaptive Battery"</string>
+    <string name="smart_battery_footer">"Quando o Battery Manager deteta a existência de aplicações a consumir a bateria rapidamente, tem a opção de restringir estas aplicações. As aplicações restringidas poderão não funcionar corretamente e as notificações poderão sofrer atrasos."</string>
     <string name="smart_battery_title" >"Utilizar a funcionalidade Adaptive Battery"</string>
     <string name="battery_tip_smart_battery_summary" >"Ative a funcionalidade Adaptive Battery."</string>
 </resources>

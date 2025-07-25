@@ -5,7 +5,7 @@
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.android.providers.settings.gms.turbo.overlay">
-    
+
     <application android:hasCode="false" />
 
     <overlay

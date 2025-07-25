@@ -1,6 +1,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="battery_suggestion_summary" >"Attiva Batteria adattiva"</string>
     <string name="smart_battery_manager_title" >"Batteria adattiva"</string>
+    <string name="smart_battery_footer">"Quando Battery Manager rileva che le app stanno scaricando la batteria, puoi applicare limitazioni a queste app. Le app con limitazioni potrebbero non funzionare correttamente e potresti ricevere le notifiche in ritardo."</string>
     <string name="smart_battery_title" >"Usa Batteria adattiva"</string>
     <string name="battery_tip_smart_battery_summary" >"Attiva Batteria adattiva"</string>
 </resources>

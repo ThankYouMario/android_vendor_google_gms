@@ -1,6 +1,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="battery_suggestion_summary" >"Включите Adaptive Battery"</string>
     <string name="smart_battery_manager_title" >"Adaptive Battery"</string>
+    <string name="smart_battery_footer">"Battery Manager определяет, какие приложения быстрее всего расходуют заряд батареи, и предлагает ограничить их работу. Ограничение фоновых процессов может привести к нарушениям функциональности приложений и задержке поступающих от них уведомлений."</string>
     <string name="smart_battery_title" >"Включить Adaptive Battery"</string>
     <string name="battery_tip_smart_battery_summary" >"Включите Adaptive Battery"</string>
 </resources>

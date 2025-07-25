@@ -1,6 +1,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="battery_suggestion_summary" >"Activar Batería automática"</string>
     <string name="smart_battery_manager_title" >"Batería automática"</string>
+    <string name="smart_battery_footer">"Si el administrador de batería detecta que hay apps que agotan la batería, podrás restringirlas, aunque es posible que no funcionen correctamente y que se retrasen las notificaciones."</string>
     <string name="smart_battery_title" >"Usar Batería automática"</string>
     <string name="battery_tip_smart_battery_summary" >"Activar Batería automática"</string>
 </resources>
