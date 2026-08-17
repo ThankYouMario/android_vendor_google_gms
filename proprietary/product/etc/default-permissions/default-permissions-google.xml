@@ -14,6 +14,8 @@
     <permission name="android.permission.WRITE_CALL_LOG" fixed="false"/>
     <permission name="android.permission.NEARBY_WIFI_DEVICES" fixed="false"/>
     <permission name="android.permission.POST_NOTIFICATIONS" fixed="false"/>
+    <!--Calendar-->
+    <permission name="android.permission.READ_CALENDAR" fixed="false"/>
   </exception>
 
   <exception
@@ -66,5 +68,18 @@
     <permission name="android.permission.ACCESS_MEDIA_LOCATION" fixed="false"/>
     <permission name="android.permission.READ_MEDIA_IMAGES" fixed="false"/>
     <permission name="android.permission.READ_MEDIA_VIDEO" fixed="false"/>
+  </exception>
+
+  <exception
+    package="com.google.android.printservice.recommendation"
+    sha256-cert-digest="7E:F3:EE:DB:4F:48:EC:F1:1E:31:70:CE:2F:F4:2D:FC:0D:E4:7C:DC:02:45:76:13:32:75:AD:EF:34:AF:AD:E2">
+    <!-- Printer discovery/connection on the local network -->
+    <permission name="android.permission.ACCESS_LOCAL_NETWORK" fixed="false"/>
+  </exception>
+
+   <exception
+    package="com.google.android.verifier"
+    sha256-cert-digest="05:0F:40:2B:FA:8B:C4:73:F2:81:04:1A:03:73:CE:4B:56:55:65:35:C2:CC:40:5E:2E:DE:17:97:5E:C0:46:E7">
+    <permission name="android.permission.POST_NOTIFICATIONS" fixed="false"/>
   </exception>
 </exceptions>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="safety_center_app_security_summary" msgid="3610555784693441890">"Play Protect ஸ்கேனிங் ஆன் செய்யப்பட்டுள்ளது"</string>
+    <string name="safety_center_app_security_footer" msgid="769491835265280892">"தீங்கிழைக்கும் செயல்பாடுகள் உள்ளனவா எனப் பார்க்க உங்கள் ஆப்ஸையும் சாதனத்தையும் Play Protect அடிக்கடி சரிபார்க்கிறது. பாதுகாப்பு அபாயங்கள் ஏதேனும் இருந்தால் உங்களுக்குத் தெரிவிக்கப்படும்."</string>
+    <string name="safety_center_app_security_search_terms" msgid="5473940513708858488">"ஆப்ஸ் பாதுகாப்பு, Play Protect, Google Play Protect, ஆப்ஸ் பாதுகாப்பு"</string>
+    <string name="safety_center_account_security_summary" msgid="3235708612652670207">"Google கணக்கு பாதுகாக்கப்பட்டுள்ளது"</string>
+    <string name="safety_center_account_security_search_terms" msgid="618433623948064172">"Google பாதுகாப்புச் சரிபார்ப்பு, Google பாதுகாப்பு, பாதுகாப்புச் சரிபார்ப்பு, கணக்குப் பாதுகாப்பு, Google கணக்குப் பாதுகாப்பு, Google கணக்கு"</string>
+    <string name="safety_center_device_finder_search_terms" msgid="8285802252780188655">"Find Hub, சாதனங்களைக் கண்டறிதல், Find My Device, தொலைந்த சாதனம்"</string>
+    <string name="safety_center_system_component_update_search_terms" msgid="4369068901718960859">"புதுப்பிப்புகள், புதுப்பிப்பு, சிஸ்டம் புதுப்பிப்பு, சிஸ்டம் புதுப்பிப்புகள், Google Play சிஸ்டம் புதுப்பிப்பு, Play சிஸ்டம் புதுப்பிப்பு"</string>
+</resources>

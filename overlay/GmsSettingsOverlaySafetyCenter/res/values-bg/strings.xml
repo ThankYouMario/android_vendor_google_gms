@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="safety_center_app_security_summary" msgid="3610555784693441890">"Сканирането от Play Protect е включено"</string>
+    <string name="safety_center_app_security_footer" msgid="769491835265280892">"Play Protect редовно проверява приложенията и устройството ви за опасно поведение. Ще получавате известие при всяко откриване на риск за сигурността."</string>
+    <string name="safety_center_app_security_search_terms" msgid="5473940513708858488">"Сигурност на приложенията, Play Protect, Google Play Protect, безопасност на приложенията"</string>
+    <string name="safety_center_account_security_summary" msgid="3235708612652670207">"Профилът в Google е защитен"</string>
+    <string name="safety_center_account_security_search_terms" msgid="618433623948064172">"Инструмент на Google за проверка на сигурността, сигурност от Google, проверка на сигурността, сигурност на профила, сигурност на профила в Google, профил в Google"</string>
+    <string name="safety_center_device_finder_search_terms" msgid="8285802252780188655">"„Център за намиране“, откриване на устройства, „Намиране на устройството ми“, изгубено устройство"</string>
+    <string name="safety_center_system_component_update_search_terms" msgid="4369068901718960859">"Актуализации, актуализация, системна актуализация, системни актуализации, системна актуализация на Google Play"</string>
+</resources>

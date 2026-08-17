@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="safety_center_app_security_summary" msgid="3610555784693441890">"A análise do Play Protect está ativada"</string>
+    <string name="safety_center_app_security_footer" msgid="769491835265280892">"O Play Protect verifica regularmente a existência de comportamentos prejudiciais nas suas apps e no dispositivo. Recebe uma notificação sempre que forem encontradas ameaças de segurança."</string>
+    <string name="safety_center_app_security_search_terms" msgid="5473940513708858488">"Segurança das apps, Play Protect, Google Play Protect"</string>
+    <string name="safety_center_account_security_summary" msgid="3235708612652670207">"A Conta Google está protegida"</string>
+    <string name="safety_center_account_security_search_terms" msgid="618433623948064172">"Verificação de segurança da Google, segurança da Google, Verificação de segurança, segurança da conta, segurança da Conta Google, Conta Google"</string>
+    <string name="safety_center_device_finder_search_terms" msgid="8285802252780188655">"Localizador, Encontrar dispositivos, Localizar o meu dispositivo, Dispositivo perdido"</string>
+    <string name="safety_center_system_component_update_search_terms" msgid="4369068901718960859">"Atualizações, atualizar, atualização do sistema, atualizações do sistema, atualização do sistema do Google Play, atualização do sistema do Play"</string>
+</resources>

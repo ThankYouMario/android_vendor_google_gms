@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="safety_center_app_security_summary" msgid="3610555784693441890">"Праверка Play Абаронай уключана"</string>
+    <string name="safety_center_app_security_footer" msgid="769491835265280892">"Play Абарона рэгулярна правярае вашы праграмы і прыладу на наяўнасць шкодных працэсаў. Вы будзеце атрымліваць апавяшчэнні пра знойдзеныя пагрозы для бяспекі."</string>
+    <string name="safety_center_app_security_search_terms" msgid="5473940513708858488">"Абарона праграмы, Play Абарона, Google Play Абарона, бяспека праграмы"</string>
+    <string name="safety_center_account_security_summary" msgid="3235708612652670207">"Уліковы запіс Google абаронены"</string>
+    <string name="safety_center_account_security_search_terms" msgid="618433623948064172">"Праверка бяспекі Google, бяспека Google, Праверка бяспекі, бяспека ўліковага запісу, бяспека Уліковага запісу Google, Уліковы запіс Google"</string>
+    <string name="safety_center_device_finder_search_terms" msgid="8285802252780188655">"Цэнтр пошуку, пошук прылад, Знайсці прыладу, згубленая прылада"</string>
+    <string name="safety_center_system_component_update_search_terms" msgid="4369068901718960859">"Абнаўленні, абнаўленне, абнаўленне сістэмы, абнаўленні сістэмы, абнаўленне сістэмы Google Play, абнаўленне сістэмы Play"</string>
+</resources>

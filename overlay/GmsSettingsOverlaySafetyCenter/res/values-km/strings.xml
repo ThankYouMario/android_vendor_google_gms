@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="safety_center_app_security_summary" msgid="3610555784693441890">"ការស្កេន Play Protect ត្រូវបានបើក"</string>
+    <string name="safety_center_app_security_footer" msgid="769491835265280892">"Play Protect ត្រួតពិនិត្យ​កម្មវិធី និង​ឧបករណ៍​របស់​អ្នក​ជា​ទៀងទាត់ ដើម្បី​រកមើល​សកម្មភាព​ដែល​បង្ក​គ្រោះថ្នាក់។ អ្នក​នឹងទទួល​បាន​ការជូន​ដំណឹងអំពី​ហានិភ័យ​ផ្នែកសុវត្ថិភាព​ទាំងឡាយ​ដែល​រកឃើញ។"</string>
+    <string name="safety_center_app_security_search_terms" msgid="5473940513708858488">"សន្តិសុខកម្មវិធី, Play Protect, Google Play Protect, សុវត្ថិភាពកម្មវិធី"</string>
+    <string name="safety_center_account_security_summary" msgid="3235708612652670207">"គណនី Google ត្រូវបានការពារ"</string>
+    <string name="safety_center_account_security_search_terms" msgid="618433623948064172">"ការពិនិត្យសុវត្ថិភាព Google, សុវត្ថិភាព Google, ការពិនិត្យសុវត្ថិភាព, សុវត្ថិភាពគណនី, សុវត្ថិភាពគណនី Google, គណនី Google"</string>
+    <string name="safety_center_device_finder_search_terms" msgid="8285802252780188655">"Find Hub, កំពុងស្វែងរកឧបករណ៍, រកឧបករណ៍របស់ខ្ញុំ, បាត់ឧបករណ៍"</string>
+    <string name="safety_center_system_component_update_search_terms" msgid="4369068901718960859">"បច្ចុប្បន្នភាព, បច្ចុប្បន្នភាពប្រព័ន្ធ, បច្ចុប្បន្នភាពប្រព័ន្ធ Google Play, បច្ចុប្បន្នភាពប្រព័ន្ធ Play"</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="safety_center_app_security_summary" msgid="3610555784693441890">"Google Play Protect-en azterketa aktibatuta dago"</string>
+    <string name="safety_center_app_security_footer" msgid="769491835265280892">"Google Play Protect-ek erregularki egiaztatzen ditu aplikazioak eta gailua portaera kaltegarririk dagoen zehazteko. Segurtasun-arriskurik aurkituz gero, haren berri emango dizugu."</string>
+    <string name="safety_center_app_security_search_terms" msgid="5473940513708858488">"Aplikazioen segurtasuna, Play Protect, Google Play Protect, aplikazioen babesa"</string>
+    <string name="safety_center_account_security_summary" msgid="3235708612652670207">"Google-ko kontua babestuta dago"</string>
+    <string name="safety_center_account_security_search_terms" msgid="618433623948064172">"Google-ren Segurtasun-egiaztapena, Google-ren segurtasuna, Segurtasun-egiaztapena, kontuaren segurtasuna, Google-ko kontuaren segurtasuna, Google-ko kontua"</string>
+    <string name="safety_center_device_finder_search_terms" msgid="8285802252780188655">"Aurkitzailea, Gailuak aurkitzea, Bilatu nire gailua, Galdutako gailua"</string>
+    <string name="safety_center_system_component_update_search_terms" msgid="4369068901718960859">"Eguneratzeak, eguneratzea, sistemaren eguneratzea, sistemaren eguneratzeak, Google Play-ren sistemaren eguneratzea, Google Play-ren sistemaren eguneratzea"</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="safety_center_app_security_summary" msgid="3610555784693441890">"Umewasha ukaguzi wa Play Protect"</string>
+    <string name="safety_center_app_security_footer" msgid="769491835265280892">"Huduma ya Play Protect hukagua vifaa na programu zako mara kwa mara ili kubaini hali hatari. Utapokea arifa ikiwa kuna hatari zozote za usalama zitakazopatikana."</string>
+    <string name="safety_center_app_security_search_terms" msgid="5473940513708858488">"Usalama wa programu, Play Protect, Google Play Protect, Usalama wa programu"</string>
+    <string name="safety_center_account_security_summary" msgid="3235708612652670207">"Akaunti ya Google inalindwa"</string>
+    <string name="safety_center_account_security_search_terms" msgid="618433623948064172">"Ukaguzi wa usalama wa Google, Usalama wa Google , Ukaguzi wa usalama, Usalama wa akaunti, Usalama wa akaunti ya Google, Akaunti ya Google"</string>
+    <string name="safety_center_device_finder_search_terms" msgid="8285802252780188655">"Kitafutaji, Kutafuta vifaa, Tafuta kifaa changu, Kifaa kilichopotea"</string>
+    <string name="safety_center_system_component_update_search_terms" msgid="4369068901718960859">"Masasisho, Sasisho, Sasisho la mfumo, Masasisho ya mfumo, Sasisho la mfumo wa Google Play, Sasisho la Google Play"</string>
+</resources>

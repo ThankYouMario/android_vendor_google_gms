@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="safety_center_app_security_summary" msgid="3610555784693441890">"Play Protect 掃瞄功能已啟用"</string>
+    <string name="safety_center_app_security_footer" msgid="769491835265280892">"Google Play Protect 會定期檢查你的應用程式和裝置是否出現有害行為。一旦發現有任何安全風險，我們就會通知你。"</string>
+    <string name="safety_center_app_security_search_terms" msgid="5473940513708858488">"應用程式安全性, Play Protect, Google Play Protect, 應用程式安全"</string>
+    <string name="safety_center_account_security_summary" msgid="3235708612652670207">"Google 帳戶已受保護"</string>
+    <string name="safety_center_account_security_search_terms" msgid="618433623948064172">"Google 安全檢查, Google 安全, 安全檢查, 帳戶安全, Google 帳戶安全, Google 帳戶"</string>
+    <string name="safety_center_device_finder_search_terms" msgid="8285802252780188655">"尋找中心, 尋找裝置, 尋找我的裝置, 遺失裝置"</string>
+    <string name="safety_center_system_component_update_search_terms" msgid="4369068901718960859">"更新, 系統更新, Google play 系統更新, Play 系統更新"</string>
+</resources>

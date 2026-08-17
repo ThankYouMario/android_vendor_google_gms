@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="safety_center_app_security_summary" msgid="3610555784693441890">"Play Protect-এর অ্যাপ স্ক্যান করার ফিচার চালু করা আছে"</string>
+    <string name="safety_center_app_security_footer" msgid="769491835265280892">"আপনার অ্যাপ এবং ডিভাইস ক্ষতিকারক আচরণ করছে কিনা তা Play Protect নিয়মিত যাচাই করে। কোনও নিরাপত্তা সংক্রান্ত ঝুঁকি খুঁজে পাওয়া গেলে আপনাকে জানানো হবে।"</string>
+    <string name="safety_center_app_security_search_terms" msgid="5473940513708858488">"অ্যাপ নিরাপত্তা, Play Protect, Google Play Protect, অ্যাপ সুরক্ষা"</string>
+    <string name="safety_center_account_security_summary" msgid="3235708612652670207">"Google অ্যাকাউন্টকে সুরক্ষিত করা হয়েছে"</string>
+    <string name="safety_center_account_security_search_terms" msgid="618433623948064172">"Google নিরাপত্তা যাচাই, Google নিরাপত্তা, নিরাপত্তা যাচাই, অ্যাকাউন্টের নিরাপত্তা, Google অ্যাকাউন্টের নিরাপত্তা, Google অ্যাকাউন্ট"</string>
+    <string name="safety_center_device_finder_search_terms" msgid="8285802252780188655">"Find hub, ডিভাইস খোঁজা, Find my device, হারানো ডিভাইস"</string>
+    <string name="safety_center_system_component_update_search_terms" msgid="4369068901718960859">"বিভিন্ন আপডেট, আপডেট, সিস্টেম আপডেট, সিস্টেমের বিভিন্ন আপডেট, Google Play সিস্টেম আপডেট, Play সিস্টেম আপডেট"</string>
+</resources>

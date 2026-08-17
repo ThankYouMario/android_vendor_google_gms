@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="safety_center_app_security_summary" msgid="3610555784693441890">"Play 保护机制扫描功能已开启"</string>
+    <string name="safety_center_app_security_footer" msgid="769491835265280892">"Play 保护机制会定期检查您的应用和设备中是否存在有害行为。如果发现任何安全风险，系统会通知您。"</string>
+    <string name="safety_center_app_security_search_terms" msgid="5473940513708858488">"应用安全性, Play 保护机制, Google Play 保护机制, 应用安全, App security, Play Protect, Google Play Protect, App safety"</string>
+    <string name="safety_center_account_security_summary" msgid="3235708612652670207">"Google 账号受到保护"</string>
+    <string name="safety_center_account_security_search_terms" msgid="618433623948064172">"Google 安全检查, Google 安全性, 安全检查, 账号安全性, Google 账号安全性, Google 账号, Google security checkup, Google Security , Security checkup, Account security, Google account security, Google account"</string>
+    <string name="safety_center_device_finder_search_terms" msgid="8285802252780188655">"查找中心, 查找设备, 查找我的设备, 丢失的设备, Find hub, Finding devices, Find my device, Lost device"</string>
+    <string name="safety_center_system_component_update_search_terms" msgid="4369068901718960859">"更新, 系统更新, Google Play 系统更新, Play 系统更新, Updates, Update, System update, System updates, Google play system update, Play system update"</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="safety_center_app_security_summary" msgid="3610555784693441890">"Play Protect pārbaude ir ieslēgta"</string>
+    <string name="safety_center_app_security_footer" msgid="769491835265280892">"Pakalpojumā Play Protect tiek regulāri pārbaudītas jūsu lietotnes un ierīce, vai tajās nav kaitīgu darbību. Jums tiks paziņots par visiem konstatētajiem drošības riskiem."</string>
+    <string name="safety_center_app_security_search_terms" msgid="5473940513708858488">"Lietotņu drošība, Play Protect, Google Play Protect, lietotņu aizsardzība"</string>
+    <string name="safety_center_account_security_summary" msgid="3235708612652670207">"Google konts ir aizsargāts"</string>
+    <string name="safety_center_account_security_search_terms" msgid="618433623948064172">"Google drošības iestatījumu pārbaude, Google drošība, Drošības iestatījumu pārbaude, konta drošība, Google konta drošība, Google konts"</string>
+    <string name="safety_center_device_finder_search_terms" msgid="8285802252780188655">"Find Hub, ierīču meklēšana, Atrast ierīci, nozaudēta ierīce"</string>
+    <string name="safety_center_system_component_update_search_terms" msgid="4369068901718960859">"Atjauninājumi, atjauninājums, sistēmas atjauninājums, sistēmas atjauninājumi, Google Play sistēmas atjauninājums, Play sistēmas atjauninājums"</string>
+</resources>

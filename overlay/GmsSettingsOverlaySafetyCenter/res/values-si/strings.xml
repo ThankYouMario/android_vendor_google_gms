@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="safety_center_app_security_summary" msgid="3610555784693441890">"Play ආරක්‍ෂාව ස්කෑන් කිරීම ක්‍රියාත්මකයි"</string>
+    <string name="safety_center_app_security_footer" msgid="769491835265280892">"Play ආරක්ෂාව නිතිපතා ඔබේ යෙදුම් සහ උපාංගය හානිකර හැසිරීම් සඳහා පරීක්ෂා කරයි. හමු වූ යම් ආරක්ෂක අවදානම් පිළිබඳව ඔබට දැනුම් දෙනු ඇත."</string>
+    <string name="safety_center_app_security_search_terms" msgid="5473940513708858488">"යෙදුම් සුරක්‍ෂිතතාව, Play ආරක්‍ෂාව, Google Play ආරක්‍ෂාව, යෙදුම් ආරක්‍ෂාව"</string>
+    <string name="safety_center_account_security_summary" msgid="3235708612652670207">"Google ගිණුම ආරක්ෂිතයි"</string>
+    <string name="safety_center_account_security_search_terms" msgid="618433623948064172">"Google ආරක්‍ෂක පරීක්‍ෂාව, Google ආරක්‍ෂාව, ආරක්‍ෂක පරීක්‍ෂාව, ගිණුම් ආරක්‍ෂාව, Google ගිණුම් ආරක්‍ෂාව, Google ගිණුම"</string>
+    <string name="safety_center_device_finder_search_terms" msgid="8285802252780188655">"සෙවීම් මධ්‍යස්ථානය, උපාංග සොයා ගැනීම්, මගේ උපාංගය සෙවීම, නැති වූ උපාංගය"</string>
+    <string name="safety_center_system_component_update_search_terms" msgid="4369068901718960859">"යාවත්කාලීන, යාවත්කාලීනය, පද්ධති යාවත්කාලීනය, පද්ධති යාවත්කාලීන, Google Play පද්ධති යාවත්කාලීනය, Play පද්ධති යාවත්කාලීනය"</string>
+</resources>

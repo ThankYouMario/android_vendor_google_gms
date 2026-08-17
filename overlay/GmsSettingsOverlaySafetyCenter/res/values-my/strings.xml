@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="safety_center_app_security_summary" msgid="3610555784693441890">"Google Play Protect စကင်ဖတ်ခြင်းကို ဖွင့်ထားသည်"</string>
+    <string name="safety_center_app_security_footer" msgid="769491835265280892">"Google Play Protect သည် သင်၏အက်ပ်နှင့် စက်ပစ္စည်းများတွင် အန္တရာယ်ရှိသော ပြုမူမှုများ ရှိမရှိကို ပုံမှန်စစ်ဆေးပေးသည်။ လုံခြုံရေး ပြဿနာများတွေ့လျှင် သင့်အား အကြောင်းကြားမည်။"</string>
+    <string name="safety_center_app_security_search_terms" msgid="5473940513708858488">"အက်ပ်လုံခြုံရေး၊ Google Play Protect၊ Google Play Protect၊ အက်ပ်လုံခြုံမှု"</string>
+    <string name="safety_center_account_security_summary" msgid="3235708612652670207">"Google Account ကို ကာကွယ်ထားသည်"</string>
+    <string name="safety_center_account_security_search_terms" msgid="618433623948064172">"Google လုံခြုံရေးစစ်ဆေးမှု၊ Google လုံခြုံရေး၊ လုံခြုံရေးစစ်ဆေးမှု၊ အကောင့်လုံခြုံရေး၊ Google အကောင့်လုံခြုံရေး၊ Google အကောင့်"</string>
+    <string name="safety_center_device_finder_search_terms" msgid="8285802252780188655">"Find Hub၊ စက်ပစ္စည်းများ ရှာခြင်း၊ Find My Device၊ စက်ပစ္စည်း ပျောက်ဆုံးခြင်း"</string>
+    <string name="safety_center_system_component_update_search_terms" msgid="4369068901718960859">"အပ်ဒိတ်များ၊ အပ်ဒိတ်၊ စနစ်အပ်ဒိတ်၊ စနစ်အပ်ဒိတ်များ၊ Google Play စနစ် အပ်ဒိတ်လုပ်ခြင်း၊ Google Play စနစ် အပ်ဒိတ်လုပ်ခြင်း"</string>
+</resources>

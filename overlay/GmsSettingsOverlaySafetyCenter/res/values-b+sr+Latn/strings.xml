@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="safety_center_app_security_summary" msgid="3610555784693441890">"Skeniranje u Play zaštiti je uključeno"</string>
+    <string name="safety_center_app_security_footer" msgid="769491835265280892">"Play Protect redovno proverava aplikacije i uređaj da bi otkrio da li postoji štetno ponašanje. Dobićete obaveštenje za sve pronađene bezbednosne rizike."</string>
+    <string name="safety_center_app_security_search_terms" msgid="5473940513708858488">"bezbednost aplikacija, Play zaštita, Google Play zaštita"</string>
+    <string name="safety_center_account_security_summary" msgid="3235708612652670207">"Google nalog je zaštićen"</string>
+    <string name="safety_center_account_security_search_terms" msgid="618433623948064172">"Google provera bezbednosti, Google bezbednost, provera bezbednosti, bezbednost naloga, bezbednost Google naloga, Google nalog"</string>
+    <string name="safety_center_device_finder_search_terms" msgid="8285802252780188655">"centar za pronalaženje, traženje uređaja, pronađi moj uređaj, izgubljeni uređaj"</string>
+    <string name="safety_center_system_component_update_search_terms" msgid="4369068901718960859">"ažuriranja, ažuriranje, ažuriranje sistema, ažuriranja sistema, Google Play ažuriranje sistema, Play ažuriranje sistema"</string>
+</resources>

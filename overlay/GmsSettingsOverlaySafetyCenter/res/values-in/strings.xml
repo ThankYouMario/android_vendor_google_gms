@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="safety_center_app_security_summary" msgid="3610555784693441890">"Pemindaian Play Protect aktif"</string>
+    <string name="safety_center_app_security_footer" msgid="769491835265280892">"Play Protect secara rutin memeriksa aplikasi dan perangkat Anda untuk mencari kemungkinan perilaku berbahaya. Anda akan diberi tahu jika risiko keamanan ditemukan."</string>
+    <string name="safety_center_app_security_search_terms" msgid="5473940513708858488">"Keamanan aplikasi, Play Protect, Google Play Protect, Keamanan aplikasi"</string>
+    <string name="safety_center_account_security_summary" msgid="3235708612652670207">"Akun Google terlindungi"</string>
+    <string name="safety_center_account_security_search_terms" msgid="618433623948064172">"Pemeriksaan keamanan Google, Keamanan Google, Pemeriksaan keamanan, Keamanan akun, Keamanan Akun Google, Akun Google"</string>
+    <string name="safety_center_device_finder_search_terms" msgid="8285802252780188655">"Hub pencari, Menemukan perangkat, Temukan perangkat saya, Perangkat hilang"</string>
+    <string name="safety_center_system_component_update_search_terms" msgid="4369068901718960859">"Update, Update, Update sistem, Update sistem, Update sistem Google Play, Update sistem Google Play"</string>
+</resources>

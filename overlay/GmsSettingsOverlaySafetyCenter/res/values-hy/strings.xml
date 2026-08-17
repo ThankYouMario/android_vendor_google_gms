@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="safety_center_app_security_summary" msgid="3610555784693441890">"Play Protect-ի ստուգումը միացված է"</string>
+    <string name="safety_center_app_security_footer" msgid="769491835265280892">"Play Protect-ը պարբերաբար ստուգում է հնարավոր սպառնալիքների առկայությունը ձեր հավելվածներում և սարքերում։ Դուք կծանուցվեք անվտանգության հայտնաբերված բոլոր ռիսկերի մասին։"</string>
+    <string name="safety_center_app_security_search_terms" msgid="5473940513708858488">"Հավելվածների անվտանգություն, Play Protect, Google Play Protect"</string>
+    <string name="safety_center_account_security_summary" msgid="3235708612652670207">"Google հաշիվը պաշտպանված է"</string>
+    <string name="safety_center_account_security_search_terms" msgid="618433623948064172">"Google Անվտանգության ստուգում, Google Անվտանգություն, Անվտանգության ստուգում, Հաշվի անվտանգություն, Google հաշվի անվտանգություն, Google հաշիվ"</string>
+    <string name="safety_center_device_finder_search_terms" msgid="8285802252780188655">"Find Hub, Սարքերի որոնում, Գտնել իմ սարքը, Կորցված սարք"</string>
+    <string name="safety_center_system_component_update_search_terms" msgid="4369068901718960859">"Թարմացումներ, Թարմացում, Համակարգի թարմացում, Համակարգի թարմացումներ, Google Play համակարգային թարմացում, Play համակարգային թարմացում"</string>
+</resources>

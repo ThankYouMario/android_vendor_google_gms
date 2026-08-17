@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="safety_center_app_security_summary" msgid="3610555784693441890">"Play Protect স্কেনিঙৰ সুবিধাটো অন আছে"</string>
+    <string name="safety_center_app_security_footer" msgid="769491835265280892">"Play Protectএ ক্ষতিকাৰক আচৰণৰ বিষয়ে জানিবলৈ আপোনাৰ এপ্‌ আৰু ডিভাইচ নিয়মীয়াকৈ পৰীক্ষা কৰে। কোনো সুৰক্ষাজনিত বিপদাশংকা দেখা পালে আপোনাক জনোৱা হ’ব।"</string>
+    <string name="safety_center_app_security_search_terms" msgid="5473940513708858488">"এপৰ সুৰক্ষা, Play Protect, Google Play Protect, এপৰ সুৰক্ষা"</string>
+    <string name="safety_center_account_security_summary" msgid="3235708612652670207">"Google একাউণ্টটো সুৰক্ষিত"</string>
+    <string name="safety_center_account_security_search_terms" msgid="618433623948064172">"Google সুৰক্ষা সম্পৰ্কীয় পৰীক্ষা, Google সুৰক্ষা , সুৰক্ষা সম্পৰ্কীয় পৰীক্ষা, একাউণ্টৰ সুৰক্ষা, Google একাউণ্টৰ সুৰক্ষা, Google একাউণ্ট"</string>
+    <string name="safety_center_device_finder_search_terms" msgid="8285802252780188655">"Find hub, ডিভাইচ বিচাৰি থকা হৈছে, Find my device, হেৰুওৱা ডিভাইচ"</string>
+    <string name="safety_center_system_component_update_search_terms" msgid="4369068901718960859">"আপডে’টসমূহ, আপডে’ট, ছিষ্টেম আপডে’ট, ছিষ্টেম আপডে’টসমূহ, Google Play ছিষ্টেম আপডে’ট, Play ছিষ্টেম আপডে’ট"</string>
+</resources>

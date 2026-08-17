@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="safety_center_app_security_summary" msgid="3610555784693441890">"Skanimi i Play Protect është aktiv"</string>
+    <string name="safety_center_app_security_footer" msgid="769491835265280892">"Play Protect i kontrollon rregullisht aplikacionet dhe pajisjen tënde për sjellje të dëmshme. Do të njoftohesh për çdo rrezik sigurie që gjendet."</string>
+    <string name="safety_center_app_security_search_terms" msgid="5473940513708858488">"Siguria e aplikacioneve, Play Protect, Google Play Protect, Siguria e aplikacioneve"</string>
+    <string name="safety_center_account_security_summary" msgid="3235708612652670207">"\"Llogaria e Google\" është e mbrojtur"</string>
+    <string name="safety_center_account_security_search_terms" msgid="618433623948064172">"Kontrolli i sigurisë së Google, Siguria e Google, Kontrolli i sigurisë, Siguria e llogarisë, Siguria e \"Llogarisë së Google\", \"Llogaria e Google\""</string>
+    <string name="safety_center_device_finder_search_terms" msgid="8285802252780188655">"\"Qendra e gjetjes\", Gjetja e pajisjeve, Gjej pajisjen time, Pajisje e humbur"</string>
+    <string name="safety_center_system_component_update_search_terms" msgid="4369068901718960859">"Përditësime, Përditësim, Përditësim i sistemit, Përditësime të sistemit, Përditësimi i sistemit të Google Play, Përditësimi i sistemit të Play"</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="safety_center_app_security_summary" msgid="3610555784693441890">"Η σάρωση του Play Protect είναι ενεργή"</string>
+    <string name="safety_center_app_security_footer" msgid="769491835265280892">"Το Play Protect ελέγχει τακτικά τις εφαρμογές και τη συσκευή σας για επιβλαβή συμπεριφορά. Θα λαμβάνετε ειδοποιήσεις για τυχόν κινδύνους ασφαλείας που εντοπίζονται."</string>
+    <string name="safety_center_app_security_search_terms" msgid="5473940513708858488">"Ασφάλεια εφαρμογής, Play Protect, Google Play Protect, Ασφάλεια συσκευής"</string>
+    <string name="safety_center_account_security_summary" msgid="3235708612652670207">"Ο Λογαριασμός Google προστατεύεται"</string>
+    <string name="safety_center_account_security_search_terms" msgid="618433623948064172">"Έλεγχος ασφαλείας Google, ασφάλεια Google, έλεγχος ασφαλείας, ασφάλεια λογαριασμού, ασφάλεια λογαριασμού Google, λογαριασμός Google"</string>
+    <string name="safety_center_device_finder_search_terms" msgid="8285802252780188655">"Κέντρο εύρεσης, Εύρεση συσκευών, Εύρεση συσκευής, Χαμένη συσκευή"</string>
+    <string name="safety_center_system_component_update_search_terms" msgid="4369068901718960859">"Ενημερώσεις, ενημέρωση, ενημέρωση συστήματος, ενημερώσεις συστήματος, ενημέρωση συστήματος Google Play, ενημέρωση συστήματος Play"</string>
+</resources>

@@ -49,7 +49,6 @@ This XML file declares which platform apps that need to access internal APIs.
   <hidden-api-whitelisted-app package="com.google.android.sdksetup" />
   <hidden-api-whitelisted-app package="com.google.android.setupwizard" />
   <hidden-api-whitelisted-app package="com.google.android.storagemanager" />
-  <hidden-api-whitelisted-app package="com.google.android.tag" />
   <hidden-api-whitelisted-app package="com.google.android.tungsten.setupwraith" />
   <hidden-api-whitelisted-app package="com.google.android.vendorloggingservice" />
   <hidden-api-whitelisted-app package="com.google.android.volta" />

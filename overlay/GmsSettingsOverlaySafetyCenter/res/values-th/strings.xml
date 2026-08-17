@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="safety_center_app_security_summary" msgid="3610555784693441890">"การสแกนด้วย Google Play Protect เปิดอยู่"</string>
+    <string name="safety_center_app_security_footer" msgid="769491835265280892">"Google Play Protect จะตรวจหาการทำงานที่เป็นอันตรายในแอปและอุปกรณ์ของคุณเป็นประจำ โดยระบบจะแจ้งเตือนให้ทราบหากพบความเสี่ยงด้านความปลอดภัย"</string>
+    <string name="safety_center_app_security_search_terms" msgid="5473940513708858488">"การรักษาความปลอดภัยของแอป, Play Protect, Google Play Protect, ความปลอดภัยของแอป"</string>
+    <string name="safety_center_account_security_summary" msgid="3235708612652670207">"บัญชี Google ได้รับการปกป้องแล้ว"</string>
+    <string name="safety_center_account_security_search_terms" msgid="618433623948064172">"การตรวจสอบความปลอดภัยของ Google, การรักษาความปลอดภัยของ Google, การตรวจสอบความปลอดภัย, การรักษาความปลอดภัยของบัญชี, การรักษาความปลอดภัยของบัญชี Google, บัญชี Google"</string>
+    <string name="safety_center_device_finder_search_terms" msgid="8285802252780188655">"ศูนย์การค้นหา, การค้นหาอุปกรณ์, หาอุปกรณ์ของฉัน, อุปกรณ์สูญหาย"</string>
+    <string name="safety_center_system_component_update_search_terms" msgid="4369068901718960859">"อัปเดต, การอัปเดต, อัปเดตระบบ, การอัปเดตระบบ, อัปเดตระบบ Google Play, การอัปเดตระบบ Google Play"</string>
+</resources>

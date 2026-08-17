@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="safety_center_app_security_summary" msgid="3610555784693441890">"A Play Protect-ellenőrzés be van kapcsolva"</string>
+    <string name="safety_center_app_security_footer" msgid="769491835265280892">"A Google Play Protect rendszeresen ellenőrzi, hogy az eszköz és az alkalmazások kártékony viselkedést tanúsítanak-e. Az esetleges biztonsági kockázatokról értesítést küld."</string>
+    <string name="safety_center_app_security_search_terms" msgid="5473940513708858488">"Alkalmazásbiztonság, Play Protect, Google Play Protect, Alkalmazásvédelem"</string>
+    <string name="safety_center_account_security_summary" msgid="3235708612652670207">"A Google-fiók védett"</string>
+    <string name="safety_center_account_security_search_terms" msgid="618433623948064172">"Google Biztonsági ellenőrzés, Google-biztonság, Biztonsági ellenőrzés, Fiókbiztonság, Google-fiókbiztonság, Google-fiók"</string>
+    <string name="safety_center_device_finder_search_terms" msgid="8285802252780188655">"Keresési központ, Eszközök megkeresése, Készülékkereső, Elveszett eszköz"</string>
+    <string name="safety_center_system_component_update_search_terms" msgid="4369068901718960859">"Frissítések, Frissítés, Rendszerfrissítés, Rendszerfrissítések, Google Play-rendszerfrissítés, Play-rendszerfrissítés"</string>
+</resources>

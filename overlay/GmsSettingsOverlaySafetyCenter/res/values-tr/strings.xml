@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="safety_center_app_security_summary" msgid="3610555784693441890">"Google Play Protect taraması açık"</string>
+    <string name="safety_center_app_security_footer" msgid="769491835265280892">"Google Play Protect, uygulamalarınızı ve cihazınızı zararlı davranışlara karşı düzenli olarak kontrol eder. Herhangi bir güvenlik riski bulunursa size bilgi verilir."</string>
+    <string name="safety_center_app_security_search_terms" msgid="5473940513708858488">"Uygulama güvenliği, Google Play Protect, Uygulama emniyeti"</string>
+    <string name="safety_center_account_security_summary" msgid="3235708612652670207">"Google Hesabı korunuyor"</string>
+    <string name="safety_center_account_security_search_terms" msgid="618433623948064172">"Google Güvenlik Kontrolü, Google Güvenlik, Güvenlik kontrolü, Hesap güvenliği, Google hesap güvenliği, Google Hesabı"</string>
+    <string name="safety_center_device_finder_search_terms" msgid="8285802252780188655">"Cihaz Takip Merkezi, Cihaz bulma, Cihazımı Bul, Kayıp cihaz"</string>
+    <string name="safety_center_system_component_update_search_terms" msgid="4369068901718960859">"Güncellemeler, Güncelleme, Sistem güncelleme, Sistem güncellemeleri, Google Play sistem güncellemesi, Google Play sistem güncellemesi"</string>
+</resources>

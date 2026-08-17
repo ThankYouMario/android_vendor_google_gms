@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="safety_center_app_security_summary" msgid="3610555784693441890">"Play Protect сканерлеу функциясы қосулы"</string>
+    <string name="safety_center_app_security_footer" msgid="769491835265280892">"Play Protect қолданбалар мен құрылғыда зиянды әрекеттердің бар-жоғын тексеріп отырады. Қауіп төнген жағдайда, хабарландыру жіберіледі."</string>
+    <string name="safety_center_app_security_search_terms" msgid="5473940513708858488">"Қолданбалар қауіпсіздігі, Play Protect, Google Play Protect, қолданба қауіпсіздігі"</string>
+    <string name="safety_center_account_security_summary" msgid="3235708612652670207">"Google аккаунты қорғалған"</string>
+    <string name="safety_center_account_security_search_terms" msgid="618433623948064172">"Google қауіпсіздік тексерісі, Google қауіпсіздігі, қауіпсіздік тексерісі, аккаунт қауіпсіздігі, Google аккаунтының қауіпсіздігі, Google аккаунты"</string>
+    <string name="safety_center_device_finder_search_terms" msgid="8285802252780188655">"Find Hub, құрылғы табу, Find My Device, жоғалған құрылғы"</string>
+    <string name="safety_center_system_component_update_search_terms" msgid="4369068901718960859">"Жаңартулар, жаңарту, жүйені жаңарту, жүйе жаңартулары, Google Play арқылы жүйені жаңарту, Play арқылы жүйені жаңарту"</string>
+</resources>

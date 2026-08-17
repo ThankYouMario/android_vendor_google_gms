@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="safety_center_app_security_summary" msgid="3610555784693441890">"Play Protecti skannimine on sisse lülitatud"</string>
+    <string name="safety_center_app_security_footer" msgid="769491835265280892">"Play Protect kontrollib teie rakendusi ja seadet regulaarselt ohtliku käitumise suhtes. Teid teavitatakse kõigist leitud turvariskidest."</string>
+    <string name="safety_center_app_security_search_terms" msgid="5473940513708858488">"Rakenduste turvalisus, Play Protect, Google Play Protect, rakenduste ohutus"</string>
+    <string name="safety_center_account_security_summary" msgid="3235708612652670207">"Google’i konto on kaitstud"</string>
+    <string name="safety_center_account_security_search_terms" msgid="618433623948064172">"Google\'i turvalisuse kontroll, Google\'i turvalisus, turvalisuse kontroll, konto turvalisus, Google\'i konto turvalisus, Google\'i konto"</string>
+    <string name="safety_center_device_finder_search_terms" msgid="8285802252780188655">"Leidmiskeskus, seadmete leidmine, leia mu seade, kaotsiläinud seade"</string>
+    <string name="safety_center_system_component_update_search_terms" msgid="4369068901718960859">"Värskendused, värskendus süsteemivärskendus, Google Play süsteemivärskendus, Play süsteemivärskendus"</string>
+</resources>

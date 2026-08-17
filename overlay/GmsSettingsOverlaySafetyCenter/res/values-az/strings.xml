@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="safety_center_app_security_summary" msgid="3610555784693441890">"Play Protect skanlaması aktivdir"</string>
+    <string name="safety_center_app_security_footer" msgid="769491835265280892">"Play Protect tətbiqləri və cihazı zərərli fəaliyyət ilə bağlı müntəzəm yoxlayır. Təhlükəsizlik riski aşkar edilərsə, sizə bildiriləcək."</string>
+    <string name="safety_center_app_security_search_terms" msgid="5473940513708858488">"Tətbiq təhlükəsizliyi, Play Protect, Google Play Protect, Tətbiq təhlükəsizliyi"</string>
+    <string name="safety_center_account_security_summary" msgid="3235708612652670207">"Google Hesabı qorunur"</string>
+    <string name="safety_center_account_security_search_terms" msgid="618433623948064172">"Google təhlükəsizlik yoxlanışı, Google Təhlükəsizliyi, Təhlükəsizlik yoxlanışı, Hesab təhlükəsizliyi, Google hesabının təhlükəsizliyi, Google hesabı"</string>
+    <string name="safety_center_device_finder_search_terms" msgid="8285802252780188655">"Cihazın tapılması, Cihazların tapılması, Cihazın tapılması, İtmiş cihaz"</string>
+    <string name="safety_center_system_component_update_search_terms" msgid="4369068901718960859">"Güncəllənmələr, Güncəllənmə, Sistem güncəllənməsi, Sistem güncəllənmələri, Google Play sistem güncəllənməsi, Google Play sistem güncəllənməsi"</string>
+</resources>

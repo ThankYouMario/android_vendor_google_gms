@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="safety_center_app_security_summary" msgid="3610555784693441890">"‏הסריקה של Play Protect מופעלת"</string>
+    <string name="safety_center_app_security_footer" msgid="769491835265280892">"‏השירות Play Protect מחפש כל הזמן התנהגות חשודה באפליקציות ובמכשיר שלך ומעדכן אותך על סיכוני אבטחה שמתגלים."</string>
+    <string name="safety_center_app_security_search_terms" msgid="5473940513708858488">"‏אבטחת אפליקציות, Play Protect, ‏Google Play Protect, בטיחות אפליקציות"</string>
+    <string name="safety_center_account_security_summary" msgid="3235708612652670207">"‏החשבון ב-Google מוגן"</string>
+    <string name="safety_center_account_security_search_terms" msgid="618433623948064172">"‏בדיקת האבטחה של Google, אבטחה ב-Google, בדיקת אבטחה, אבטחת החשבון, אבטחת חשבון Google, חשבון Google"</string>
+    <string name="safety_center_device_finder_search_terms" msgid="8285802252780188655">"מרכז המכשירים שלי, איך למצוא מכשירים, חיפוש מכשיר, איפה המכשיר שלי, מכשיר שאבד"</string>
+    <string name="safety_center_system_component_update_search_terms" msgid="4369068901718960859">"‏עדכונים, עדכון, עדכון מערכת, עדכוני מערכת, עדכון מערכת של Google Play, עדכון מערכת של Play"</string>
+</resources>

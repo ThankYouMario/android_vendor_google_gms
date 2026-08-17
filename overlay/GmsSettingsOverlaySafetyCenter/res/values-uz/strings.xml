@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="safety_center_app_security_summary" msgid="3610555784693441890">"Play Protect tekshiruvi yoniq"</string>
+    <string name="safety_center_app_security_footer" msgid="769491835265280892">"Play Protect himoyalash uchun ilova va qurilmalarni muntazam tekshirib boradi. Barcha xavf-xatarlar haqida xabardor boʻlasiz."</string>
+    <string name="safety_center_app_security_search_terms" msgid="5473940513708858488">"Ilovalar xavfsizligi, Play Protect, Google Play Protect, ilova xavfsizligi"</string>
+    <string name="safety_center_account_security_summary" msgid="3235708612652670207">"Google hisobi himoyalangan"</string>
+    <string name="safety_center_account_security_search_terms" msgid="618433623948064172">"Google xavfsizlik tekshiruvi, Google xavfsizlik , Xavfsizlik tekshiruvi, hisob xavfsizligi, Google hisob xavfsizligi, Google hisobi"</string>
+    <string name="safety_center_device_finder_search_terms" msgid="8285802252780188655">"Find Hub, Qurilmalarni topish, Qurilmam qayerda, Yoʻqolgan qurilma"</string>
+    <string name="safety_center_system_component_update_search_terms" msgid="4369068901718960859">"Yangilanishlar, yangilanish, tizim yangilanishi, tizim yangilanishlari, Google play tizim yangilanishi, Play tizim yangilanishi"</string>
+</resources>

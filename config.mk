@@ -25,6 +25,7 @@ PRODUCT_PACKAGES += \
     GmsContactsProviderOverlay \
     GmsSettingsOverlay \
     GmsSettingsOverlayPersonalSafety \
+    GmsSettingsOverlaySafetyCenter \
     GmsSettingsOverlayTurbo \
     GmsSettingsProviderOverlay \
     GmsSystemUIOverlay \
@@ -38,10 +39,10 @@ PRODUCT_PACKAGES += \
 
 # Properties
 PRODUCT_PRODUCT_PROPERTIES += \
-    ro.com.google.gmsversion=15_202408 \
+    ro.com.google.gmsversion=17_202606 \
     ro.opa.eligible_device=true \
     ro.setupwizard.rotation_locked=true \
-    setupwizard.theme=glif_v4_light
+    setupwizard.theme=glif_expressive
 
 ifeq ($(PRODUCT_GMS_CLIENTID_BASE),)
 PRODUCT_PRODUCT_PROPERTIES += \

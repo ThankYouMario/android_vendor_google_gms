@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="safety_center_app_security_summary" msgid="3610555784693441890">"Tính năng quét của Play Protect đang bật"</string>
+    <string name="safety_center_app_security_footer" msgid="769491835265280892">"Play Protect sẽ thường xuyên kiểm tra các ứng dụng và thiết bị của bạn để phát hiện hành vi gây hại. Chúng tôi sẽ thông báo cho bạn nếu phát hiện thấy bất kỳ rủi ro nào về bảo mật."</string>
+    <string name="safety_center_app_security_search_terms" msgid="5473940513708858488">"Bảo mật ứng dụng, Play Protect, Google Play Protect, An toàn ứng dụng"</string>
+    <string name="safety_center_account_security_summary" msgid="3235708612652670207">"Tài khoản Google được bảo vệ"</string>
+    <string name="safety_center_account_security_search_terms" msgid="618433623948064172">"Kiểm tra bảo mật của Google, Bảo mật của Google, Kiểm tra bảo mật, Bảo mật tài khoản, Bảo mật tài khoản Google, Tài khoản Google"</string>
+    <string name="safety_center_device_finder_search_terms" msgid="8285802252780188655">"Trung tâm tìm thiết bị, Tìm thiết bị, Tìm thiết bị của tôi, Thiết bị thất lạc"</string>
+    <string name="safety_center_system_component_update_search_terms" msgid="4369068901718960859">"Bản cập nhật, Cập nhật, Bản cập nhật hệ thống, Cập nhật hệ thống, Bản cập nhật hệ thống Google Play, Bản cập nhật hệ thống Play"</string>
+</resources>
