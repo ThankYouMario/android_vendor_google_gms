@@ -41,7 +41,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PRODUCT_PROPERTIES += \
     ro.com.google.gmsversion=17_202606 \
     ro.opa.eligible_device=true \
-    ro.setupwizard.rotation_locked=true \
     setupwizard.theme=glif_expressive
 
 ifeq ($(PRODUCT_GMS_CLIENTID_BASE),)
