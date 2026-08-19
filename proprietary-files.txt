@@ -1,7 +1,7 @@
 product/apex/com.google.android.gmssystem.prodvic.apex;APPS=PrebuiltGmsCoreVic;OVERRIDES=NetworkRecommendation,StatementService;PRESIGNED
 product/app/CalculatorGoogle/CalculatorGoogle.apk;OVERRIDES=Calculator,ExactCalculator;PRESIGNED
 product/app/CalendarGoogle/CalendarGoogle.apk;OVERRIDES=Calendar;PRESIGNED
-product/app/Chrome64/Chrome64.apk;OVERRIDES=Browser,Browser2;PRESIGNED
+product/app/Chrome64/Chrome64.apk;OVERRIDES=Browser,Browser2;PRESIGNED|62724948829eba8a1d6662dce591ddcd5c9d397b
 product/app/DeskClockGoogle/DeskClockGoogle.apk;OVERRIDES=DeskClock;PRESIGNED
 product/app/Drive/Drive.apk;PRESIGNED
 product/app/Gemini/Gemini.apk;PRESIGNED
@@ -13,8 +13,8 @@ product/app/Maps/Maps.apk;PRESIGNED
 product/app/Photos/Photos.apk;OVERRIDES=Gallery2,SnapdragonGallery;PRESIGNED
 product/app/SpeechServicesByGoogle/SpeechServicesByGoogle.apk;PRESIGNED
 product/app/talkback/talkback.apk;PRESIGNED
-product/app/TrichromeLibrary64/TrichromeLibrary64.apk;PRESIGNED
-product/app/WebViewGoogle64/WebViewGoogle64.apk;OVERRIDES=webview;PRESIGNED
+product/app/TrichromeLibrary64/TrichromeLibrary64.apk;PRESIGNED|966f2ddf14088ea284648e5517619d92ff1ad068
+product/app/WebViewGoogle64/WebViewGoogle64.apk;OVERRIDES=webview;PRESIGNED|21e1dd704a35af96279e39ca5a37ab0ba16e0681
 product/app/YouTube/YouTube.apk;PRESIGNED
 product/etc/default-permissions/default-permissions-google.xml
 product/etc/permissions/com.google.android.dialer.support.xml
